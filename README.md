@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Laravel developer for RYSK-IT B.V<br>on MaaS applications. Except that I enjoy working on personal projects,<br>where I use other stack such as React, Vue, React Native, Flutter, or Node JS.
+I'm currently working as a Laravel developer for RYSK-IT B.V<br>on MaaS applications. Except that I enjoy working on personal projects,<br>where I use other stack such as React, Vue, Flutter, or Node JS.
 
 
 ## 🌐 Socials:
