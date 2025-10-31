@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working as a Laravel developer for RYSK-IT B.V<br>on MaaS applications. Except that I enjoy working on personal projects,<br>where I use other stack such as React, Vue, Flutter, or Node JS.
+I'm a full-stack web developer currently working at RYSK-IT B.V., where I focus on building and maintaining MassTransport-as-a-Service (MaaS) applications using Laravel.
+I enjoy designing clean, scalable architectures and writing maintainable backend code that performs well in production environments.
+
+Outside of work, I like exploring modern tools and workflows that make development and deployment smoother — from Docker and Traefik to server management on Ubuntu and Nginx.
+I’m passionate about continuous improvement, automation, and creating reliable solutions that bring real value to users and teams.
 
 
 ## 🌐 Socials:
