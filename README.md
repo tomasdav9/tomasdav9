@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack web developer currently working at RYSK-IT B.V., where I focus on building and maintaining MassTransport-as-a-Service (MaaS) applications using Laravel.
+I'm a full-stack software developer and IT consultant currently working at Protein & Co, where I focus on building and maintaining company applications helping colleagues with their everyday work.
 I enjoy designing clean, scalable architectures and writing maintainable backend code that performs well in production environments.
 
 Outside of work, I like exploring modern tools and workflows that make development and deployment smoother — from Docker and Traefik to server management on Ubuntu and Nginx.
